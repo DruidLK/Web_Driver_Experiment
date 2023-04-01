@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rduL1G+26sGoTXxU1eNK5s+h8uirQZcZe4lRfr42u9em+8I05StEqm+0437SlG9oLujYEYxKacOH27lnGTkwvg==",
+  "dgSpecHash": "dNydsMTXGCadLfO1lZG2vysUZcmPCEigFtek6QZ2cJXLsvahm+lC7MYW3XXK1ZvG8nt9bIbDfgV19o8a5h8riQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\USER\\source\\repos\\Web_Driver_Experiment\\Web_Driver_Experiment\\Web_Driver_Experiment.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\USER\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\nunit3testadapter\\4.4.2\\nunit3testadapter.4.4.2.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\selenium.support\\4.8.2\\selenium.support.4.8.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\selenium.webdriver\\4.8.2\\selenium.webdriver.4.8.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\selenium.webdriver.chromedriver\\109.0.5414.7400\\selenium.webdriver.chromedriver.109.0.5414.7400.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
