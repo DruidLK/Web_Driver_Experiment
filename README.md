@@ -10,3 +10,5 @@ Have to look this up: For example, we can integrate Page Object Model in Seleniu
 
 
 Methods get more realistic names which can be easily mapped with the operation happening in UI. i.e. if after clicking on the button we land on the home page, the method name will be like ‘gotoHomePage()’.
+
+Integrating it with CI/CD require knowledge.
