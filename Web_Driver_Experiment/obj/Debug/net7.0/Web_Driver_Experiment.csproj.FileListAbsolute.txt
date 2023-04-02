@@ -101,3 +101,4 @@ C:\Users\USER\source\repos\Web_Driver_Experiment\Web_Driver_Experiment\obj\Debug
 C:\Users\USER\source\repos\Web_Driver_Experiment\Web_Driver_Experiment\obj\Debug\net7.0\Web_Driver_Experiment.pdb
 C:\Users\USER\source\repos\Web_Driver_Experiment\Web_Driver_Experiment\obj\Debug\net7.0\Web_Driver_Experiment.genruntimeconfig.cache
 C:\Users\USER\source\repos\Web_Driver_Experiment\Web_Driver_Experiment\obj\Debug\net7.0\ref\Web_Driver_Experiment.dll
+C:\Users\USER\source\repos\Web_Driver_Experiment\Web_Driver_Experiment\bin\Debug\net7.0\WebDriver.Support.dll

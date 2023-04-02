@@ -28,6 +28,8 @@ namespace Web_Driver_Experiment.Tests
 
             // Assert
             Assert.That(googlePage.isForestTitleDisplay, Is.True);
+
+            webDriver.Close();
         }
     }
 }

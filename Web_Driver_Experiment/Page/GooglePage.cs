@@ -1,4 +1,6 @@
-﻿using OpenQA.Selenium;
+﻿using System;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 
 namespace Web_Driver_Experiment.Page
 {
@@ -19,9 +21,14 @@ namespace Web_Driver_Experiment.Page
 
         private IWebElement ForestLink =>
             this.webDriver.FindElement(By.LinkText("Forest - Wikipedia"));
+
+        private WebDriverWait WaitDriver() =>
+            new WebDriverWait(this.webDriver, TimeSpan.FromSeconds(10));
+
         public void SearchGoogle(string search)
         {
             this.SearchBar.SendKeys(search);
+            WaitDriver();
             this.SearchButton.Submit();
         }
 
